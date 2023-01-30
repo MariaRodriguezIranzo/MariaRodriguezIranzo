@@ -2,7 +2,7 @@
 
 
 
-🐱‍💻 App developer(JAVA, C#, Python, Android, PHP)
+🐱‍💻 App developer (JAVA, C#, Python, Android, PHP)
 
 
 
