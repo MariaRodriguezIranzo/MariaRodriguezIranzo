@@ -6,13 +6,4 @@
 
 
 
-📚 Soon i will study the next web programming languages (TypeScript, Node.js, Rust)
-
-
-
-
-📚 Soon i will study the next app programming languages (Swift, Kotlin)
-
-
-
-
+📚 To learn (TypeScript, Node.js, Rust, Django,Swift, Kotlin)
