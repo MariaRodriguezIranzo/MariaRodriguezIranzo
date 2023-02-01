@@ -6,4 +6,4 @@
 
 
 
-📚 Soon i will study the next web programming languages (TypeScript, Perl)
+📚 Soon i will study the next web programming languages (TypeScript, Perl, Node.js)
