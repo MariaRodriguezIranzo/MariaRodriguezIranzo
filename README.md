@@ -6,4 +6,4 @@
 
 
 
-📚 To learn (TypeScript, Node.js, Rust, Django,Swift, Kotlin)
+📚 To learn (TypeScript, Node.js, Rust, Django, Swift, Kotlin)
