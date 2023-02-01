@@ -6,7 +6,7 @@
 
 
 
-📚 Soon i will study the next web programming languages (TypeScript, Perl, Node.js, Go)
+📚 Soon i will study the next web programming languages (TypeScript, Node.js)
 
 
 
