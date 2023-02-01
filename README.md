@@ -12,3 +12,7 @@
 
 
 📚 Soon i will study the next app programming languages (Swift, Kotlin)
+
+
+
+
