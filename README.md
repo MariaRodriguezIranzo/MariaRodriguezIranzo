@@ -1,4 +1,4 @@
-🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript)
+🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript,Flash)
 
 
 
