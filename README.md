@@ -1,4 +1,4 @@
-🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript, Flask, ASP.Net)
+🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript, Flask, ASP.net)
 
 
 
