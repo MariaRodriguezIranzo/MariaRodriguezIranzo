@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm Junior frontend developer (Student)<br>👩‍💻 Web / App developer<br>💼 Working on Optimoclick<br>🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript,React, Node.js, Express, PHP, Flask, ASP.net)<br>🐱‍💻 App developer (JAVA, C#, Python, Android, PHP)<br>📚 To learn (TypeScript, Rust, Django, Swift, Kotlin)
+📚 I'm Junior frontend developer (Student)<br>👩‍💻 Web / App developer<br>🐱‍💻 Web developer (HTML, CSS, BOOTSTRAP, Ruby, JavaScript,React, Node.js, Express, PHP, Flask, ASP.net)<br>🐱‍💻 App developer (JAVA, C#, Python, Android, PHP)<br>📚 To learn (TypeScript, Rust, Django, Swift, Kotlin)
 
 
 ## 🌐 Socials:
