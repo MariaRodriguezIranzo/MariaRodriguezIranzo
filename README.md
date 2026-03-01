@@ -39,5 +39,5 @@ React · Next.js · FastAPI · Node.js · MySQL · MongoDB
 
 ## 🌍 Contact
 
-- LinkedIn: linkedin.com/in/mariarodrigueziranzo  
+- LinkedIn: [linkedin.com/in/mariarodrigueziranzo](https://www.linkedin.com/in/mariarodrigueziranzo)  
 - Porfolio: [mariarodira.vercel.app](https://mariarodira.vercel.app)
